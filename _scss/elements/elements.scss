@@ -1,0 +1,18 @@
+/*------------------------------------*\
+    $ELEMENTS
+\*------------------------------------*/
+
+/**
+ * Elements (global)
+ * Most elements are scoped to modules and are placed in the file of the module which contains them
+ * Elements in the /elements/ directory can also be scoped to modules (modification)
+ * Consider making the modification applied above re-usable across modules by creating it as a variant here
+ * 
+ * Classes
+ * Variants: Required, namespace with dash "-[variant]
+ * Modifiers: Allowed, namespace with underscore "_[modifier]"
+ * Helpers: Not allowed
+ */
+ 
+ // import each element partial in appliation.scss
+ // but you can keep an inventory of the imports here to paste into application.scss
