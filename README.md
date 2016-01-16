@@ -1,4 +1,4 @@
 #UnIversum
-![UnIversum](http://innovandrew.com/uv/img/universum-banner.png)
+![UnIversum](http://innovandrew.com//img/uiv-banner.png)
 
 @innovandrew's Product framework, patterns, styleguide
